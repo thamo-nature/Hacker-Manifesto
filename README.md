@@ -8,10 +8,12 @@ for the betterment of upcoming generation,He seeks TRUTH. "</br>
                   - ThamoNature</br>
 
 <pre>
-The Hacker Manifesto
-by
-+++The Mentor+++
-Written January 8, 1986
+                                  The Hacker Manifesto
+                                          by
+                                   +++The Mentor+++
+                                   
+                                  Written January 8, 1986
+                                  
 Another one got caught today, it's all over the papers. "Teenager Arrested in Computer Crime Scandal", "Hacker Arrested after Bank Tampering"...
 
 Damn kids. They're all alike.
